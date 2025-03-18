@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.wyn.pipelines</groupId>
 	<artifactId>api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>api</name>
 	<description>Simulates Project Maven Dependencies</description>
 	<scm>
