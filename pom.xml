@@ -20,6 +20,7 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
+		<project.scm.id>github.com</project.scm.id>
 	</properties>
 
 	<distributionManagement>
