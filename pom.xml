@@ -13,7 +13,7 @@
 	<name>api</name>
 	<description>Simulates Project Maven Dependencies</description>
 	<scm>
-		<connection>scm:git:https://github.com/agentVargas2012R/pipeline-demo.git/main</connection>
+		<connection>scm:git:https://github.com/agentVargas2012R/pipeline-demo.git</connection>
 		<url>https://github.com/agentVargas2012R/pipeline-demo</url>
 		<tag>0.0.0.1</tag>
 	</scm>
@@ -24,11 +24,11 @@
 	<distributionManagement>
 		<repository>
 			<id>releases</id>
-			<url>http://localhost:8081/nexus/content/repositories/releases/</url>
+			<url>http://172.17.0.2:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+			<url>http://172.17.0.2:8081/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<dependencies>
