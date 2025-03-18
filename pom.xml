@@ -14,7 +14,7 @@
 	<name>api</name>
 	<description>Simulates Project Maven Dependencies</description>
 	<scm>
-		<connection>scm:git:https://github.com/agentVargas2012R/pipeline-demo.git/main</connection>
+		<connection>scm:git:https://github.com/agentVargas2012R/pipeline-demo.git</connection>
 		<url>https://github.com/agentVargas2012R/pipeline-demo</url>
 		<tag>${project.version}</tag>
 	</scm>
