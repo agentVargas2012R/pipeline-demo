@@ -109,7 +109,7 @@
 				<version>3.1.1</version>
 				<configuration>
 					<goals>package</goals>
-					<preparationGoals>deploy</preparationGoals>
+					<preparationGoals>install</preparationGoals>
 					<allowTimestampedSnapshots>true</allowTimestampedSnapshots>
 					<tagNameFormat>@{project.version}</tagNameFormat>
 					<remoteTagging>false</remoteTagging>
