@@ -9,13 +9,13 @@
 	</parent>
 	<groupId>com.wyn.pipelines</groupId>
 	<artifactId>api</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<name>api</name>
 	<description>Simulates Project Maven Dependencies</description>
 	<scm>
 		<connection>scm:git:git@github.com:agentVargas2012R/pipeline-demo.git</connection>
 		<url>https://github.com/agentVargas2012R/pipeline-demo</url>
-		<tag>0.0.3</tag>
+		<tag>0.0.4</tag>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
